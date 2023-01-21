@@ -1,1 +1,14 @@
-undefined
+{
+    "name": "touchfractal",
+    "version": "1.0.0",
+    "description": "Draw the simple screen-like fractals",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hejny/touchfractal"
+    }
+}
