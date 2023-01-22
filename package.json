@@ -1,7 +1,7 @@
 {
     "name": "touchfractal",
     "version": "1.0.0",
-    "description": "I am open to pull requests, feedback, and suggestions. Or if you like this utility, you can ☕ buy me a coffee or donate via cryptocurrencies.",
+    "description": "Draw the simple screen-like fractals",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
