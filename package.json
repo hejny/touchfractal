@@ -1,6 +1,6 @@
 {
     "name": "touchfractal",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Draw the simple screen-like fractals",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
