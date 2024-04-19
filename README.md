@@ -7,6 +7,7 @@
 [![License of 🍁 TouchFractal](https://img.shields.io/github/license/hejny/touchfractal.svg?style=flat)](https://github.com/hejny/touchfractal/blob/main/LICENSE)
 [![Known Vulnerabilities](https://snyk.io/test/github/hejny/touchfractal/badge.svg)](https://snyk.io/test/github/hejny/touchfractal)
 [![Issues](https://img.shields.io/github/issues/hejny/touchfractal.svg?style=flat)](https://github.com/hejny/touchfractal/issues)
+<!--[![Socket](https://socket.dev/api/badge/npm/package/touchfractal)](https://socket.dev/npm/package/touchfractal)-->
 
 <!--/Badges-->
  
